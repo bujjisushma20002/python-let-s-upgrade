@@ -1,2 +1,2 @@
 # python-let-s-upgrade
-Assignment submission
+Assignment submissions
